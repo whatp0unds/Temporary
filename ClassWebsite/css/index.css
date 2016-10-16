@@ -8,7 +8,7 @@
 
 .section1 h3 {
   margin: 10px 0;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .section1 p {
@@ -25,13 +25,14 @@
   display: inline-flex;
   justify-content: space-around;
   width: 100%;
-  min-width: 800px;
+  min-width: 955px;
 }
 
 .pic img {
   width: 50px;
   height: 120px;
   transition: .5s;
+  opacity: .7;
 }
 
 .pic img:hover {
